@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-laura perez
+Lucy Mutuota 
 
 Second part of Airbnb: Joann Vuong
 ## License
